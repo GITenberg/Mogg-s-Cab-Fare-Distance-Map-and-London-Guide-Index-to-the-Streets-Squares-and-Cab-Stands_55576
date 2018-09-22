@@ -1,11 +1,16 @@
 _repo: Mogg-s-Cab-Fare-Distance-Map-and-London-Guide-Index-to-the-Streets-Squares-and-Cab-Stands_55576
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55576-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Mogg, W.
     gutenberg_agent_id: '48402'
     url: http://www.gutenberg.org/2009/agents/48402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55576#Mogg-s-Cab-Fare-Distance-Map-and-London-Guide-Index-to-the-Streets-Squares-and-Cab-Stands
 gutenberg_issued: '2017-09-18'
 gutenberg_type: Text
 identifiers:
